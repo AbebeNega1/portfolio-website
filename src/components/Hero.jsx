@@ -30,8 +30,12 @@ function Hero() {
           <a href="#contact" className="btn btn-outline">
             Contact Me
           </a>
-           <a href="/cv.pdf" className="btn">
-  Download CV
+    <a
+  href="/Abebe_Nega_Belete_cv_file.pdf"
+  download
+  className="btn btn-outline"
+>
+  Download Resume
 </a>
         </div>
       
