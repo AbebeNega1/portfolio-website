@@ -13,7 +13,11 @@ function Skills() {
 
       <div className="skills-container">
 
-  <div className="skill-card">
+  <div
+  className="skill-card"
+  data-aos="fade-up"
+  data-aos-delay="0"
+>
    <h3>
   <FaPalette className="skill-icon" />
   Frontend Development
@@ -26,7 +30,11 @@ function Skills() {
     </ul>
   </div>
 
-  <div className="skill-card">
+  <div
+  className="skill-card"
+  data-aos="fade-up"
+  data-aos-delay="100"
+>
     <h3>
   <FaCog className="skill-icon" />
   Backend Development
@@ -38,7 +46,11 @@ function Skills() {
     </ul>
   </div>
 
-  <div className="skill-card">
+  <div
+  className="skill-card"
+  data-aos="fade-up"
+  data-aos-delay="200"
+>
     <h3>
   <FaRobot className="skill-icon" />
   Machine Learning
@@ -51,7 +63,11 @@ function Skills() {
     </ul>
   </div>
 
-  <div className="skill-card">
+  <div
+  className="skill-card"
+  data-aos="fade-up"
+  data-aos-delay="300"
+>
     <h3>
   <FaTools className="skill-icon" />
   Tools & Technologies
@@ -63,7 +79,11 @@ function Skills() {
       <li>Linux</li>
     </ul>
   </div>
-<div className="skill-card">
+<div
+  className="skill-card"
+  data-aos="fade-up"
+  data-aos-delay="400"
+>
   <h3>
   <FaNetworkWired className="skill-icon" />
   Networking & Systems

@@ -1,6 +1,10 @@
 function About() {
   return (
-    <section id="about" className="about">
+<section
+  id="about"
+  className="about"
+  data-aos="zoom-in"
+>
       <h2 className="section-title">About Me</h2>
       <div className="title-dot"></div>
 

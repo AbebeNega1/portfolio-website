@@ -3,7 +3,11 @@ import { FaGraduationCap } from "react-icons/fa";
 import { FaFolderOpen } from "react-icons/fa";
 function Education() {
   return (
-    <section id="education" className="education">
+   <section
+  id="education"
+  className="education"
+  data-aos="zoom-in"
+>
       <h2 className="section-title">Education</h2>
       <div className="title-dot"></div>
 
